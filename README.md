@@ -39,7 +39,7 @@ git clone https://github.com/Foam-01/Flutter-List-of-cat-breeds.git
 cd Flutter-List-of-cat-breeds
 flutter pub get
 flutter run -d <platform>  # e.g. android, ios, chrome, windows
-
+```
 
 
 ![Screenshot 2025-06-19 125729](https://github.com/user-attachments/assets/b9dfce1d-37ec-4a9d-ad6f-a718226742de)
