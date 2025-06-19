@@ -1,16 +1,5 @@
-# cat_breeds_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-06-19 125729](https://github.com/user-attachments/assets/b9dfce1d-37ec-4a9d-ad6f-a718226742de)
+![Screenshot 2025-06-19 125702](https://github.com/user-attachments/assets/e133cf66-3904-4fcd-984a-552a996aecf2)
+![Screenshot 2025-06-19 125649](https://github.com/user-attachments/assets/741852aa-1b39-4400-8ba5-7b27bbb76040)
+![Screenshot 2025-06-19 125638](https://github.com/user-attachments/assets/1a09ae3e-dda3-44fb-855b-532e70bc3fac)
